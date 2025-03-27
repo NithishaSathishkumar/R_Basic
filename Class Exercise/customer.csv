@@ -1,0 +1,11 @@
+customer_id,monthly_charges,payment_method,new_customer
+7590-VHVEG,29.85,Electronic check,yes
+5575-GNVDE,56.95,Mailed check,no
+3668-QPYBK,,MAILED CHECK,yes
+7795-CFOCW,42.3,Bank transfer,no
+9237-HQITU,70.7,Electronic check,no
+9305-CDSKC,,MAILED CHECK,yes
+1452-KIOVK,89.1,Credit card,no
+6713-OKOMC,-100000,Bank transfer,yes
+7892-POOKP,104.8,Electronic check,no
+8451-AJOMK,54.1,Electronic check,no
