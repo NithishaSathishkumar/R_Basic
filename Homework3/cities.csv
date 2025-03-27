@@ -1,0 +1,16 @@
+﻿location,temperature_value,scale,variable,value
+New York/USA,12.7,Celsius,population,8419600
+Tokyo/Japan,16.2,Celsius,population,13929286
+Berlin/Germany,9.8,Celsius,population,3769495
+Paris/France,14.5,Celsius,population,2148327
+Sydney/Australia,18,Celsius,population,5312163
+New York/USA,12.7,Celsius,area_km2,783.8
+Tokyo/Japan,16.2,Celsius,area_km2,2194.07
+Berlin/Germany,9.8,Celsius,area_km2,891.8
+Paris/France,14.5,Celsius,area_km2,105.4
+Sydney/Australia,18,Celsius,area_km2,1237
+New York/USA,12.7,Celsius,gdp_million,1700000
+Tokyo/Japan,16.2,Celsius,gdp_million,1500000
+Berlin/Germany,9.8,Celsius,gdp_million,500000
+Paris/France,14.5,Celsius,gdp_million,650000
+Sydney/Australia,18,Celsius,gdp_million,800000
