@@ -1,0 +1,51 @@
+subjid,age,sex,country,adm_date,heart_rate,oxy_sat,test_pos,medication
+1,66,Female,England,2/9/2019,111,99,Yes,Patient received 500mg x2 paracetamol
+2,69,Male,England,1/7/2020,116,100,No,Morphine; Amoxicillin
+3,67,Male,England,9/13/2020,125,97,Yes,Paracetamol 500 mg x 2
+4,91,Male,England,8/19/2022,125,98,Yes,Insulin
+5,25,Male,Scotland,7/13/2021,85,98,Yes,paracetimol
+6,74,Female,England,3/7/2022,132,98,Unknown,"meropenem, diazapam, paracetamol"
+7,51,Male,N. Ireland,1/21/2019,134,94,No,Paracetamol when needed
+8,88,Male,Scotland,7/20/2022,129,96,No,Citalopram & paractamol
+9,36,Female,England,3/12/2022,82,99,Yes,Ibuprofen
+10,97,Male,N. Ireland,4/12/2019,60,93,No,adenosine/paracetamol
+11,27,Female,England,2/27/2020,131,93,Unknown,patient to take 2 tablets paracetamol 500mg every 4 hours
+12,11,Female,N. Ireland,9/17/2021,53,94,No,"heparin, amoxicillin"
+13,62,Male,England,9/18/2021,119,96,No,cephalexin
+14,77,Male,Scotland,10/7/2019,142,94,No,paracetamol for pain
+15,30,Female,England,9/8/2022,76,91,No,NA
+16,36,Female,Scotland,8/29/2022,98,100,Unknown,Insulin
+17,90,Male,Scotland,8/17/2020,54,98,No,Asprin
+18,62,Female,England,5/23/2019,95,96,Yes,Codine
+19,36,Male,Wales,4/18/2021,102,95,No,patient received paracetimol at 4am
+20,6,Female,England,7/31/2020,66,96,No,500mg x2 Ibuprofen & 500mg x2 paracetamol
+21,12,Female,England,2/27/2021,117,98,No,"Cephalexin, Sertraline, Atenolol"
+22,47,Male,Wales,4/27/2019,119,90,No,paracetomol
+23,73,Male,England,4/1/2020,57,93,Yes,"Insulin, folic acid"
+24,42,Female,England,9/24/2020,110,92,No,Multivitamins
+25,60,Male,England,5/27/2022,149,92,Yes,paracetamol/ibuprofin
+26,92,Female,England,6/29/2022,103,98,No,patient started taking parcetamol on day 2 of admission
+27,6,Female,England,12/1/2021,116,97,Yes,Glucose
+28,89,Female,Wales,1/15/2020,55,96,No,paracetamol for pain
+29,48,Female,Scotland,5/13/2021,75,98,No,Insulin&atenolol
+30,61,Female,England,8/9/2021,104,97,No,paracetamol
+31,5,Female,England,11/1/2020,93,95,Unknown,diazipam
+32,57,Female,England,9/29/2021,50,97,No,paracetamol 500mg x2 at 7am
+33,15,Female,England,2/29/2020,97,98,Yes,Lactulose
+34,15,Female,Wales,2/19/2020,68,92,Yes,Lactulose and multivitamins
+35,36,Male,England,5/28/2022,56,99,No,unknown
+36,39,Female,England,5/15/2022,118,92,No,"11:00 paracetamol, 13:00 ibuprofen, 15:00 paracetimol"
+37,65,Female,England,8/19/2021,53,97,No,Insulin
+38,67,Male,N. Ireland,7/24/2019,77,96,No,meropenem then paracetaml
+39,83,Male,England,4/19/2021,52,97,No,unknown
+40,62,Male,England,4/9/2020,130,99,No,Saline solution
+41,85,Female,Scotland,4/24/2020,118,92,Yes,10am Insulin
+42,59,Female,England,5/25/2019,146,99,Yes,Asprin
+43,93,Male,England,3/17/2022,104,94,Yes,Lorazepam
+44,85,Male,Scotland,1/9/2019,112,95,No,NA
+45,72,Female,England,11/13/2021,121,93,No,Laculose&Paracetamol
+46,54,Female,Wales,3/25/2020,53,92,Yes,NA
+47,49,Male,England,6/24/2019,98,90,Unknown,Insulin
+48,29,Female,England,4/30/2019,123,99,No,glucose
+49,80,Male,Scotland,7/21/2020,50,98,No,Citalopram & paractamol
+50,75,Male,England,8/7/2021,74,99,No,16.30 paracetamol 500mg
