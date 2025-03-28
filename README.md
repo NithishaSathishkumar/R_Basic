@@ -1,5 +1,3 @@
-# R_Basic
-
 # Data Management with R
 
 ## Course Overview
@@ -23,7 +21,7 @@ The primary learning objectives of this course include:
 To get started with the course materials, follow these steps:
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your-username/data-management-r.git
+   git clone https://github.com/NithishaSathishkumar/R_Basic.git
    ```
 2. **Install R and RStudio:**  
    Download and install the latest version of R from [CRAN](https://cran.r-project.org/) and RStudio from [Posit](https://posit.co/download/rstudio-desktop/).
