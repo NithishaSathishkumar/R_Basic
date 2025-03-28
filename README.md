@@ -41,4 +41,3 @@ To get started with the course materials, follow these steps:
 ├── 📂 notebooks       # R Markdown files for lecture notes and exercises
 ├── 📜 README.md       # Course overview and setup instructions
 ```
-
